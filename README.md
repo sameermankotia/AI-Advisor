@@ -5,7 +5,7 @@
 [![Ollama](https://img.shields.io/badge/Ollama-Llama%203.2-orange.svg)](https://ollama.ai/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.11-38bdf8.svg)](https://tailwindcss.com/)
 
-An intelligent academic planning platform that helps Computer Science students plan their 4-year degree path with AI-powered course recommendations and drag-and-drop scheduling.
+An intelligent academic planning platform that helps Computer Science students plan their 4-year degree path with AI-powered course recommendations and drag-and-drop scheduling made for University Of Idaho Undergrad CS students.
 
 ## ✨ Features
 
